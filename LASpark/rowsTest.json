@@ -1,0 +1,304 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "zzzz-zzzz",
+      "name" : "LAPD Crime and Collision Raw Data for 2015",
+      "averageRating" : 0,
+      "category" : "A Safe City",
+      "displayType" : "table",
+      "downloadCount" : 0,
+      "indexUpdatedAt" : 1450739820,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 0,
+      "publicationAppendEnabled" : false,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1449186973,
+      "rowsUpdatedBy" : "art8-rc4x",
+      "tableId" : 5843590,
+      "totalTimesRated" : 0,
+      "viewCount" : 0,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 232422585,
+        "name" : "Date Rptd",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_rptd",
+        "position" : 2,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 33058756,
+        "width" : 208,
+        "format" : { }
+      }, {
+        "id" : 232422586,
+        "name" : "DR. NO",
+        "dataTypeName" : "text",
+        "fieldName" : "dr_no",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058757,
+        "width" : 172,
+        "format" : { }
+      }, {
+        "id" : 232422587,
+        "name" : "DATE OCC",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_occ",
+        "position" : 4,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 33058758,
+        "width" : 196,
+        "format" : { }
+      }, {
+        "id" : 232422588,
+        "name" : "TIME OCC",
+        "dataTypeName" : "text",
+        "fieldName" : "time_occ",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058759,
+        "width" : 196,
+        "format" : { }
+      }, {
+        "id" : 232422589,
+        "name" : "AREA",
+        "dataTypeName" : "text",
+        "fieldName" : "area",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058760,
+        "width" : 148,
+        "format" : { }
+      }, {
+        "id" : 232422590,
+        "name" : "AREA NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "area_name",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058761,
+        "width" : 208,
+        "format" : { }
+      }, {
+        "id" : 232422591,
+        "name" : "RD",
+        "dataTypeName" : "text",
+        "fieldName" : "rd",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058762,
+        "width" : 124,
+        "format" : { }
+      }, {
+        "id" : 232422592,
+        "name" : "Crm Cd",
+        "dataTypeName" : "text",
+        "fieldName" : "crm_cd",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058763,
+        "width" : 172,
+        "format" : { }
+      }, {
+        "id" : 232422593,
+        "name" : "Crm Cd Desc",
+        "dataTypeName" : "text",
+        "fieldName" : "crm_cd_desc",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058764,
+        "width" : 232,
+        "format" : { }
+      }, {
+        "id" : 232422594,
+        "name" : "Status",
+        "dataTypeName" : "text",
+        "fieldName" : "status",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058765,
+        "width" : 172,
+        "format" : { }
+      }, {
+        "id" : 232422595,
+        "name" : "Status Desc",
+        "dataTypeName" : "text",
+        "fieldName" : "status_desc",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058766,
+        "width" : 232,
+        "format" : { }
+      }, {
+        "id" : 232422596,
+        "name" : "LOCATION",
+        "dataTypeName" : "text",
+        "fieldName" : "location",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058767,
+        "width" : 196,
+        "format" : { }
+      }, {
+        "id" : 232422597,
+        "name" : "Cross Street",
+        "dataTypeName" : "text",
+        "fieldName" : "cross_street",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33058768,
+        "width" : 244,
+        "format" : { }
+      }, {
+        "id" : 232422598,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 15,
+        "renderTypeName" : "location",
+        "tableColumnId" : 33058769,
+        "width" : 220,
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : true,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "rd",
+            "ascending" : true
+          } ]
+        },
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Monthly"
+          },
+          "Location Specified" : {
+            "Does this data have a Location column? (Yes or No)" : "Yes"
+          },
+          "Data Owner" : {
+            "LAPD" : "ADSD",
+            "Data Owner" : "LAPD"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 232422591,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "sortBys" : [ {
+        "id" : 0,
+        "viewColumnId" : 232422591,
+        "flags" : [ "asc" ]
+      } ],
+      "tableAuthor" : {
+        "id" : "art8-rc4x",
+        "displayName" : "LAPD OpenData",
+        "profileImageUrlLarge" : "/api/users/art8-rc4x/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/art8-rc4x/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/art8-rc4x/profile_images/TINY",
+        "roleName" : "editor",
+        "screenName" : "LAPD OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "chown_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards", "view_story", "view_unpublished_story" ]
+      },
+      "tags" : [ "police", "crime", "collisions", "lapd", "traffic", "safety" ],
+      "flags" : [ "unsaved" ]
+    }
+  },
+  "data" : [ [ 1, "A36D0BD2-357B-4E06-AF1F-8E7629E84401", 1, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126705", "2015-12-02T00:00:00", "0150", "01", "Central", "0145", "946", "OTHER MISCELLANEOUS CRIME", "IC", "Invest Cont", "  400 S  LOS ANGELES                  ST", null, [ null, "34.0473", "-118.2462", null, false ] ]
+, [ 2, "D8983253-F3C6-4B55-A959-7801D4542A58", 2, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126706", "2015-12-02T00:00:00", "0220", "01", "Central", "0145", "330", "BURGLARY FROM VEHICLE", "IC", "Invest Cont", "         LOS ANGELES", "   WINSTON", [ null, "34.0467", "-118.2470", null, false ] ]
+, [ 3, "FF9D2AAC-DC1B-433D-9831-B57305EF2839", 3, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126763", "2015-12-02T00:00:00", "1110", "01", "Central", "0162", "442", "SHOPLIFTING - PETTY THEFT ($950 & UNDER)", "IC", "Invest Cont", "  700 W  7TH                          ST", null, [ null, "34.0480", "-118.2577", null, false ] ]
+, [ 4, "BF450DAF-BFB4-4509-928A-DDF13519CD96", 4, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126766", "2015-12-02T00:00:00", "1600", "01", "Central", "0174", "442", "SHOPLIFTING - PETTY THEFT ($950 & UNDER)", "IC", "Invest Cont", "  100 E  9TH                          ST", null, [ null, "34.0416", "-118.2550", null, false ] ]
+, [ 5, "362DD1AB-DC5F-40FD-922C-630CCF231238", 5, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126772", "2015-12-02T00:00:00", "1605", "01", "Central", "0111", "626", "SPOUSAL(COHAB) ABUSE - SIMPLE ASSAULT", "IC", "Invest Cont", "  800 N  BUNKER HILL                  AV", null, [ null, "34.0637", "-118.2440", null, false ] ]
+, [ 6, "01A7D48E-5664-4BB1-A9E6-2CC2E3F5439C", 6, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126776", "2015-12-02T00:00:00", "1000", "01", "Central", "0111", "442", "SHOPLIFTING - PETTY THEFT ($950 & UNDER)", "IC", "Invest Cont", "  700 W  CESAR E CHAVEZ               AV", null, [ null, "34.0606", "-118.2439", null, false ] ]
+, [ 7, "60EA48B1-F4D5-4D52-A21C-655A9CE6FF24", 7, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126777", "2015-12-02T00:00:00", "1415", "01", "Central", "0161", "442", "SHOPLIFTING - PETTY THEFT ($950 & UNDER)", "IC", "Invest Cont", "  700 S  FIGUEROA                     ST", null, [ null, "34.0494", "-118.2599", null, false ] ]
+, [ 8, "F6E95DEA-5C6F-4A21-BE08-9AD197444FB5", 8, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126778", "2015-12-02T00:00:00", "1500", "01", "Central", "0152", "648", "ARSON", "IC", "Invest Cont", "  500 W  5TH                          ST", null, [ null, "34.0495", "-118.2529", null, false ] ]
+, [ 9, "420D08A9-5833-4637-900B-001108889B44", 9, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126783", "2015-12-02T00:00:00", "1515", "01", "Central", "0163", "740", "VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)", "IC", "Invest Cont", "  800 S  BROADWAY", null, [ null, "34.0438", "-118.2547", null, false ] ]
+, [ 10, "EBE08CE7-26F8-4B1B-BD19-B995895978AF", 10, 1449186600, "883986", 1449186600, "883986", null, "2015-12-02T00:00:00", "150126786", "2015-12-02T00:00:00", "1315", "01", "Central", "0156", "745", "VANDALISM - MISDEAMEANOR ($399 OR UNDER)", "IC", "Invest Cont", "  400 E  5TH                          ST", null, [ null, "34.0446", "-118.2450", null, false ] ]
+]
+}
